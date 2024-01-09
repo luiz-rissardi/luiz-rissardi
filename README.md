@@ -3,11 +3,14 @@
 Coloque aqui uma breve descrição sobre você ou sobre o projeto.
 
 ## Ferramentas e Tecnologias
-![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Luiz-Angular14" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Luiz-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+## 
 
 ## Gráfico de Atividades
 
